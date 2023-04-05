@@ -29,4 +29,8 @@ New skills to acquire:
 
 ## PDF of the project
 [B-MUL-200_my_defender.pdf](https://github.com/DumesnyJeremy/tek1_MyDefender-/files/11153874/B-MUL-200_my_defender.pdf)
+![image](https://user-images.githubusercontent.com/60926613/230193639-86b46622-534a-4fba-b349-3199a74267f1.png)
+![image](https://user-images.githubusercontent.com/60926613/230193736-8e3d1b61-0d23-4154-ba1d-87bb040e4fca.png)
+![image](https://user-images.githubusercontent.com/60926613/230193824-ad0cd4d6-108d-4429-b4d5-05faf238ac06.png)
+![image](https://user-images.githubusercontent.com/60926613/230194166-9468a52e-4810-4e65-aabe-5eb437b93884.png)
 
